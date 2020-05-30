@@ -1,2 +1,2 @@
 # pcking
-The official king of PCKING!
+The official site of PCKING!
